@@ -51,7 +51,7 @@ EcoGuide-AI/
 
 ---
 
-![alt text](<Screenshot 2026-01-17 224336.png>)
+![alt text](<Screenshot 2026-01-17 234743.png>)
 
 ##  Example Interactions
 
